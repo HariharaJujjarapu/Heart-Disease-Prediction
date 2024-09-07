@@ -13,7 +13,7 @@ The dataset used for this project is publicly available and contains 14 features
 - Prediction
 
 ## Results
-The model achieved an accuracy of *87.80%* on the training dataset and *89.26%* on the test dataset using 12 neighbours.
+The model achieved an accuracy of **87.80%** on the training dataset and **89.26%** on the test dataset using 12 neighbours.
 
 ## How to Run the Project
 1. Clone this repository.
